@@ -1,0 +1,10 @@
+<div class="card" *ngIf="post">
+  <h3>{{ post.title }}</h3>
+  <p> {{ post.content }}</p>
+  <div>
+      <span class="tag">
+          {{ post.category.name }}
+      </span>
+      <span>{{ post.createdDate | date : "medium" }}</span>
+  </div>
+</div>

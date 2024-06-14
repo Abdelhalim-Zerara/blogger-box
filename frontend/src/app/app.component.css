@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400&display=swap');
+
+
+.tag , .card * {
+  font-family: Poppins;
+}
+
+body{
+  background-color:#f9fbfd;
+}
+
+.text{
+  color: rgb(28, 20, 78);
+  line-height: 1.75;
+  word-break: break-word;
+  margin: 0px 0px 4px;
+  font-size: 12px
+}
+
+.bold{
+  font-weight: bold;
+  font-size: 14px
+}
+
+.big{
+  font-size: 14px
+}
+
+
+h2{
+  overflow: visible;
+  font-family: Rubik;
+  font-size: 30px;
+  font-weight: 700;
+  color: rgb(28, 20, 78);
+  line-height: 1.2;
+  margin: 16px 0;
+}
+
+h3{
+  overflow: visible;
+  font-family: Rubik;
+  font-size: 20px;
+  font-weight: 700;
+  color: rgb(28, 20, 78);
+  line-height: 1.2;
+}
+
+
+
+
+
+ 
